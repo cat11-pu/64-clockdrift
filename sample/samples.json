@@ -1,0 +1,6 @@
+{
+  "threshold": 20,
+  "reads": 3,
+  "monotonic_invariant": true,
+  "samples": [100, 104, 110, 116, 122, 150]
+}
